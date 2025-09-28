@@ -1,0 +1,3 @@
+- Deliverable: Compare multiple supervised learning models
+- Can be classification or regression
+- Do not choose a completely clean dataset (can have outliers, duplicates, and missing values)
